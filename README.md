@@ -54,3 +54,4 @@ Este repositório contém os exemplos das aulas de lógica de programação tran
 >[!NOTE]
 >
 >Cada um pode escrever uma nota, está no PDF de Markdown.
+>Sabado dia 28/09/2024 14:51
